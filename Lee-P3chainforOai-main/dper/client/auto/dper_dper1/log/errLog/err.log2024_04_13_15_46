@@ -1,0 +1,22 @@
+[2024-04-13 15:46:00] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:05] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:10] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:15] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:17] [warning] blockChain.go:379 p3Chain/core/eles.(*BlockChain).CommitBlock Current NodeID:6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8 commit Block into LevelDB
+
+[2024-04-13 15:46:17] [warning] synchronization.go:240 p3Chain/blockSync.(*SyncProtocal).handleMsg Block synchronization: The number (30) of blocks requested by the remote node, and the actual number of blocks returned is (2) and currentHeight (1)
+
+[2024-04-13 15:46:18] [warning] synchronization.go:240 p3Chain/blockSync.(*SyncProtocal).handleMsg Block synchronization: The number (30) of blocks requested by the remote node, and the actual number of blocks returned is (2) and currentHeight (1)
+
+[2024-04-13 15:46:19] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn inbound conn 6c72c34988764114 [::1]:58440 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:46:19] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn static dial conn 6c72c34988764114 [::1]:20131 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:46:20] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:25] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:30] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:35] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:40] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:45] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:50] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:46:50] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn inbound conn 6c72c34988764114 [::1]:51598 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:46:50] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn dyn dial conn 6c72c34988764114 [::1]:20131 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:46:55] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (2) nodes unable to establish P2P communication due to exceptions
