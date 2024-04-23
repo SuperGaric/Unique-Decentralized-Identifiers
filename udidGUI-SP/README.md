@@ -1,2 +1,2 @@
 # udidGUI
- The GUI for FL demo of P3-Cahin
+ The GUI for SP demo of Unique-Decentralized-Identifiers
