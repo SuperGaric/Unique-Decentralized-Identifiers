@@ -1,5 +1,0 @@
-SELFKEYREGISTER
-REGISTERPUBKEY
-SEND|SELF|SELF|D|I know you are doing this.
-SEND|SELF|node1|D|I know you are doing this.
-SLEEP|20

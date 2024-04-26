@@ -1,9 +1,0 @@
-[2024-04-13 23:20:00] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
-[2024-04-13 23:20:05] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
-[2024-04-13 23:20:06] [warning] peer.go:207 p3Chain/p2p/server.(*Peer).pingLoop heart beate, ping协程退出
-
-[2024-04-13 23:20:06] [warning] peer.go:316 p3Chain/p2p/server.(*Peer).startProtocols.func1 协议handshake, 协议Run函数错误,err:EOF
-
-[2024-04-13 23:20:06] [warning] peer.go:316 p3Chain/p2p/server.(*Peer).startProtocols.func1 协议handshake, 协议Run函数错误,err:EOF
-
-[2024-04-13 23:20:06] [error] dial.go:216 p3Chain/p2p/server.(*dialTask).Do dial error: dial tcp [::1]:20130: connect: connection refused

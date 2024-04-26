@@ -1,5 +1,0 @@
-Just for test
-SELFKEYREGISTER
-REGISTERPUBKEY
-SEND|SELF|node1|D|I know you are doing this.
-SLEEP|5
