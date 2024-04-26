@@ -1,0 +1,29 @@
+{
+"AccountsDir": "./accounts",
+"BlockDBPath": "./database/blockchain",
+"BootstrapNodesFilePath": "./booters/booter.txt",
+"CentralConfigMode": true,
+"ContractEngine": "DEMO_PIPE_CONTRACT_NAME",
+"DperKeyAddress": "24b3cc941bf76b993efaeeaa9107cfe0ba402fa0",
+"DperPrivateKey": "",
+"DperRole": "Follower",
+"GroupCount": 2,
+"GroupFollower": 2,
+"GroupLeader": 1,
+"InitBooterAddress": "0.0.0.0:30300",
+"ListenAddress": "0.0.0.0:20133",
+"MTWSchemes": [
+"CTPBFT"
+],
+"MaxPeerNum": 32,
+"MemoryDBMode": false,
+"NATKind": "Any",
+"NewAddressMode": false,
+"RemoteEnginePipeName": "/tmp/mypipename20332.sock",
+"RemoteSupportPipeName": "/tmp/mypipename20232.sock",
+"ServerName": "dper",
+"StorageDBPath": "./database/storage",
+"StorageV2DBPath": "./database/storageV2",
+"SubNetName": "net0",
+"ViewChangeFunc": false
+}

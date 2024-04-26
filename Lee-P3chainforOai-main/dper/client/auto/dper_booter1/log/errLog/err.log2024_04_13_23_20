@@ -1,0 +1,1 @@
+[2024-04-13 23:20:02] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
