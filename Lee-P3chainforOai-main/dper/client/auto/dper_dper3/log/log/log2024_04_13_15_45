@@ -1,0 +1,331 @@
+[2024-04-13 15:45:00] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:00] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:00] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:00] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:02] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:05] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:05] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:05] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:05] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:07] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:10] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:10] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:10] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:10] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:12] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:14] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn inbound conn 21c561939067af2d [::1]:54174 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:45:14] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn static dial conn 21c561939067af2d [::1]:20133 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:45:15] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:15] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:15] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:15] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:17] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:20] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:20] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:20] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:20] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:22] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:25] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:25] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:25] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:25] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:26] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:30] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:30] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:30] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:30] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:32] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:35] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:35] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:35] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:35] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:37] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:40] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:40] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:40] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:40] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:42] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:45] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:45] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:45] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:45] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:45] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn inbound conn 21c561939067af2d [::1]:56504 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:45:45] [warning] server.go:631 p3Chain/p2p/server.(*Server).setupConn dyn dial conn 21c561939067af2d [::1]:20133 failed checkpoint posthandshake: Connected to self
+[2024-04-13 15:45:47] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:50] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:50] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:50] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:50] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:51] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:52] [info] consensusPromoter.go:257 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus: Current Consensus Node (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) has receive transaction (count:1) from other consensus node (5235ec29a73d5d49f061e3d05073123de694e5ba) 
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:280 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus: Current Consensus Node (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) has receive pre-prepare Message from Leader (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8) within group (net0)
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:283 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus: Leader doesn't have corresponding roundHandler, Waiting for creation....
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:331 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus: The new roundHandler (roundID:0ca6a40fa8d3cd9458a7e535f6fb7eb6fc0bae92c71fb7df6e4be8427af8ad43) has been created and being running
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:53] [info] blockChain.go:562 p3Chain/core/eles.(*BlockChain).StaleCheck [Block Chain] StaleCheck 被调用
+
+[2024-04-13 15:45:53] [info] peer.go:76 p3Chain/core/separator.(*peer).sendMsg Separator: Send msg to peer: 8b5bdccbc92a810e5fce5f5ded76aece79d422c5f504e97fa8e1d2c66da5f8815d4e38d10c2eff8e7508c0463fa5859b160b7549671d303dbc238197a850ba6c, msgcode: 2
+
+[2024-04-13 15:45:53] [info] peer.go:76 p3Chain/core/separator.(*peer).sendMsg Separator: Send msg to peer: 6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8, msgcode: 2
+
+[2024-04-13 15:45:53] [info] roundHandler.go:287 p3Chain/core/consensus.(*roundHandler).SendPrepareMsg [TPBFT Consensus] Lower Channel: Current Consensus Node (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) has broadcast prepareMsg within roundID (0ca6a40fa8d3cd9458a7e535f6fb7eb6fc0bae92c71fb7df6e4be8427af8ad43)
+
+[2024-04-13 15:45:53] [info] roundHandler.go:161 p3Chain/core/consensus.(*roundHandler).Start [TPBFT Consensus] Lower Channel: roudHandler with round ID: 0ca6a40fa8d3cd9458a7e535f6fb7eb6fc0bae92c71fb7df6e4be8427af8ad43 starts to running!
+
+[2024-04-13 15:45:53] [info] roundHandler.go:200 p3Chain/core/consensus.(*roundHandler).Do [TPBFT Consensus] Lower Channel: Node (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) has completed the prepare phase consensus, validOrder:[1]
+
+[2024-04-13 15:45:53] [info] tpbt_common.go:277 p3Chain/core/consensus.(*Ctpbft).TidyTransactions [TPBFT Consensus] Ctpbft: Leader (5235ec29a73d5d49f061e3d05073123de694e5ba) Tidy candidateBlock successfully, blockID:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2, txSum:1
+
+[2024-04-13 15:45:53] [info] peer.go:76 p3Chain/core/separator.(*peer).sendMsg Separator: Send msg to peer: 6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8, msgcode: 2
+
+[2024-04-13 15:45:53] [info] roundHandler.go:238 p3Chain/core/consensus.(*roundHandler).Do [TPBFT Consensus] Lower Channel: Node (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) has completed the tidy phase consensus and has sent CommitMsg to the Leader (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8)
+
+[2024-04-13 15:45:53] [info] roundHandler.go:170 p3Chain/core/consensus.(*roundHandler).Stop.func1 [TPBFT Consensus] Lower Channel: roudHandler with round ID: 0ca6a40fa8d3cd9458a7e535f6fb7eb6fc0bae92c71fb7df6e4be8427af8ad43 stop!
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:53] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] synchronization.go:441 p3Chain/blockSync.(*SyncProtocal).syncer Block synchronization: Start block synchronization with node (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8)...  ---  local node currentHeight (0), remote node currentHeight (1)
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] downloader.go:150 p3Chain/blockSync/downloader.(*Downloader).Synchronise Block synchronization downloader: Attempting synchronise with node (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8)... RemoteCurrentVersion (fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2) RemoteCurrentHeight (1)
+
+[2024-04-13 15:45:54] [info] downloader.go:229 p3Chain/blockSync/downloader.(*Downloader).FindAncestor Block synchronization downloader: Attempting to query the common ancestor block with node (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8) ...
+
+[2024-04-13 15:45:54] [info] blockChain.go:508 p3Chain/core/eles.(*BlockChain).GetCurrentBlock [Block Chain] GetCurrentBlock 被调用
+
+[2024-04-13 15:45:54] [info] blockChain.go:397 p3Chain/core/eles.(*BlockChain).GetBlockFromHash [Block Chain] GetBlockFromHash 被调用
+
+[2024-04-13 15:45:54] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:54] [info] blockChain.go:420 p3Chain/core/eles.(*BlockChain).GetBlockFromHash [Block Chain] GetBlockFromHash 调用结束
+
+[2024-04-13 15:45:54] [info] synchronization.go:274 p3Chain/blockSync.(*SyncProtocal).handleMsg Block synchronization:  Receive BlockHashesMsg from remote peer (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8), the number of BlockHashes is (1)
+
+[2024-04-13 15:45:54] [info] downloader.go:199 p3Chain/blockSync/downloader.(*Downloader).syncWithPeer Block synchronization downloader: Fetch common ancestor block is succeed, ancestor blockNumber (0), Number of blocks (1) waiting for synchronization
+
+[2024-04-13 15:45:54] [info] blockChain.go:508 p3Chain/core/eles.(*BlockChain).GetCurrentBlock [Block Chain] GetCurrentBlock 被调用
+
+[2024-04-13 15:45:54] [info] blockChain.go:397 p3Chain/core/eles.(*BlockChain).GetBlockFromHash [Block Chain] GetBlockFromHash 被调用
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] blockChain.go:420 p3Chain/core/eles.(*BlockChain).GetBlockFromHash [Block Chain] GetBlockFromHash 调用结束
+
+[2024-04-13 15:45:55] [info] downloader.go:321 p3Chain/blockSync/downloader.(*Downloader).fetchBlocks Block synchronization downloader: Start to fetch (1) blocks by remote node (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8) from block (0) ...
+
+[2024-04-13 15:45:55] [info] blockChain.go:431 p3Chain/core/eles.(*BlockChain).FindVersion [Block Chain] FindVersion 被调用
+
+[2024-04-13 15:45:55] [info] blockChain.go:215 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 开始启动, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] blockChain.go:220 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 进行新区块的插入, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] blockChain.go:226 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 完成新区块的插入, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] blockChain.go:228 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 准备执行区块内的交易, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] blockChain.go:236 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 完成对区块内交易的执行, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] blockChain.go:251 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 准备更新交易过滤器, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] blockChain.go:255 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 完成对交易过滤器的更新, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] blockChain.go:265 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 准备更新区块链状态量, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2 , block Height:1 
+
+[2024-04-13 15:45:55] [info] blockChain.go:274 p3Chain/core/eles.(*BlockChain).InsertChain [Block Chain] InsertChain 完成对区块链状态量的更新, block Hash:fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2 , block Height:1 
+
+[2024-04-13 15:45:55] [info] downloader.go:358 p3Chain/blockSync/downloader.(*Downloader).fetchBlocks Block synchronization downloader: Block synchronization succeeded, Current local blockchain status: CurrentHeight (1), CurrentVersion (fbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2)
+
+[2024-04-13 15:45:55] [info] downloader.go:154 p3Chain/blockSync/downloader.(*Downloader).Synchronise Block synchronization downloader: Block Synchronisation with node (6c72c34988764114a304d01fc491b010ed1135b36f1e98d648b453d02c0fcc2b5852fa4c6e9c88f578f0bc41d8ac2e6cffdc4e47e35769a68ddb7985a75879b8) has been completed!
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [warning] separator.go:293 p3Chain/core/separator.(*Separator).DoBind Separator Construct: (1) nodes unable to establish P2P communication due to exceptions
+[2024-04-13 15:45:55] [info] separator.go:296 p3Chain/core/separator.(*Separator).DoBind 查询到的断连节点: NodeID (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) , NetID (net0)
+
+[2024-04-13 15:45:55] [info] separator.go:404 p3Chain/core/separator.(*Separator).TidyDialBook 删除与节点 (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) 的静态连接 
+
+[2024-04-13 15:45:55] [info] separator.go:368 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 位于unAdded集合中的节点nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] blockChain.go:444 p3Chain/core/eles.(*BlockChain).GetBlocksFromHash [Block Chain] GetBlocksFromHash 被调用
+
+[2024-04-13 15:45:55] [info] blockChain.go:397 p3Chain/core/eles.(*BlockChain).GetBlockFromHash [Block Chain] GetBlockFromHash 被调用
+
+[2024-04-13 15:45:55] [info] blockChain.go:424 p3Chain/core/eles.(*BlockChain).GetBlockFromHash [Block Chain] GetBlockFromHash 调用结束
+
+[2024-04-13 15:45:55] [info] state_manager_intra.go:152 p3Chain/core/worldstate.(*IntraStateManager).SetWorldStateVersion set intra world state version to 0xfbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+[2024-04-13 15:45:55] [info] consensusPromoter.go:217 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus: Current Consensus Node (21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f) has receive IntraWSUpdate message from leader, and updates to version 0xfbcd7606d33ced78799b005e8f86ec19db3288c2b76bd2d8f44639d8917bb8e2
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:55] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:56] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] separator.go:376 p3Chain/core/separator.(*Separator).MakeDialBook separator层: 成功与nodeID: 21c561939067af2d03eaa74bcbb6ea8e2f311e5f27d1b98afb5d7a7426a0ead0ecb893269c2a70282ed8ac3bebe65bd3b84720dd16398c657f8b8312745cf84f建立静态链接, 节点IP:::1 , 端口号:20133
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:57] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:58] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
+[2024-04-13 15:45:59] [info] consensusPromoter.go:277 p3Chain/core/consensus.(*ConsensusPromoter).lowerUpdate [TPBFT Consensus] Lower Consensus failed: Leader doesn't have corresponding roundHandler, Cann't process messages of non-StatePrePrepare Msg!
+
