@@ -1,1 +1,0 @@
-.\whisper_client.exe keygenerate
