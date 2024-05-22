@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "nas_log.h": "c",
+        "nr_nas_msg_sim.h": "c"
+    }
+}
