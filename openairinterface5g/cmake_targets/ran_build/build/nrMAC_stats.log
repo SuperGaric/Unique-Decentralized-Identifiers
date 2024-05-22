@@ -1,0 +1,10 @@
+
+E RNTI 3394 CU-UE-ID 1 in-sync PH 0 dB PCMAX 0 dBm, average RSRP -44 (11 meas)
+UE 3394: UL-RI 1, TPMI 0
+UE 3394: dlsch_rounds 1126/1/0/0, dlsch_errors 0, pucch0_DTX 0, BLER 0.00000 MCS (0) 9
+UE 3394: ulsch_rounds 1146/0/0/0, ulsch_errors 0, ulsch_DTX 0, BLER 0.00000 MCS (0) 9
+UE 3394: MAC:    TX         138273 RX         127607 bytes
+UE 3394: LCID 1: TX           1002 RX            466 bytes
+UE 3394: LCID 2: TX             54 RX             46 bytes
+UE 3394: LCID 4: TX              9 RX            177 bytes
+
