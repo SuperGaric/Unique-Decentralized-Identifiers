@@ -1,0 +1,15 @@
+Blacklisted PRBs 0/106
+-1. 0. 0. 0. 0.-1. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 3.-24. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.
+ 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.-1. 0.-1. 0.-1.-1.-1.-1.
+-2.-1.-1.-1.-1.-3.
+max_IO = 27 (52), min_I0 = 0 (53), avg_I0 = 24 dB
+PRACH I0 = 12.2 dB
+
+SCH RNTI e2c: current_Qm 2, current_RI 1, total_bytes TX 2898071
+ULSCH RNTI  e2c, 437: ulsch_power[0] 43,6 ulsch_noise_power[0] 23.8, sync_pos 6
+                 round_trials 21945(8.2e-01):17923(1.0e-01):2284(1.6e-03):36, DTX 27, current_Qm 2, current_RI 1, total_bytes RX/SCHED 0/1518618
+
+
+

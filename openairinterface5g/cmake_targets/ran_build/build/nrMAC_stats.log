@@ -1,0 +1,10 @@
+
+E RNTI 0e2c CU-UE-ID 1 out-of-sync PH 0 dB PCMAX 0 dBm, average RSRP 0 (0 meas)
+UE 0e2c: UL-RI 1, TPMI 0
+UE 0e2c: dlsch_rounds 23955/21/5/5, dlsch_errors 5, pucch0_DTX 31, BLER 0.19000 MCS (0) 6
+UE 0e2c: ulsch_rounds 21968/17936/2287/38, ulsch_errors 2, ulsch_DTX 37, BLER 0.85163 MCS (0) 6
+UE 0e2c: MAC:    TX        2895651 RX        1646541 bytes
+UE 0e2c: LCID 1: TX           1008 RX          19442 bytes
+UE 0e2c: LCID 2: TX              0 RX              0 bytes
+UE 0e2c: LCID 4: TX             30 RX            720 bytes
+
